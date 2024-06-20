@@ -1,0 +1,11 @@
+NAME=kisaki
+IMAGE=kisaki.png
+TYPE=Talent
+VIRGIN=1
+VOICE=女子汎用／大／真面目
+TRAIT=愛嬌
+TRAIT=タトゥ
+TRAIT=既婚
+LKS=A+
+TEC=B+
+MEN=A+
